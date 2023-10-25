@@ -1,16 +1,14 @@
-### Hi there 👋
+### benvindo ao meu perfil. :atom:
 
-<!--
-**marcoslindo/marcoslindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é marcos archanjo dias filho.
 
-Here are some ideas to get you started:
+-Estou estudando na plataforma alura.
+-Estou me desenvolvendo nas linguagens javascript,  html e css
+-ultilizo e espaço para minnha organizaçao dos meus compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voçe pode entrar em comtato comigo 📫
+
+maros.dias.filho@escola.pr.gov.br
+
+
+![](https://media.tenor.com/38rUYTyoLO8AAAAM/whaaat-oh-my-god.gif).
